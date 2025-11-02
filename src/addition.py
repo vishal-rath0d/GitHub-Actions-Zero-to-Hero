@@ -7,5 +7,5 @@ def test_add():
     assert add(1, 2) == 3
     assert add(1, -1) == 0
 
-def sub(a, b)
+def sub(a, b):
     return a - b
